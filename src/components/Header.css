@@ -1,0 +1,10 @@
+.AppBar{
+    color: transparent;
+    position: static;
+    background-color: #14161a;
+}
+.Typography{
+    padding: 12px;
+    color: gold;
+}
+
